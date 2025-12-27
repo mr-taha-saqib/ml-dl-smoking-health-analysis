@@ -59,7 +59,7 @@ Python 3.8+, pandas, numpy, matplotlib, seaborn, scikit-learn, imbalanced-learn,
 ## Installation
 
 ```bash
-git clone https://github.com/mr-taha-saqib/smoking-prediction-ml-dl.git
+git clone https://github.com/mr-taha-saqib/ml-dl-smoking-health-analysis.git
 cd smoking-prediction-ml-dl
 pip install -r requirements.txt
 ```
